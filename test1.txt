@@ -2,4 +2,4 @@ Hello this is my second test
 ryfhcgjvkj
 Test demo session
 Sign Up code
-20/08/2026 Today I have learned Git Fetch and Pull Origin commands and when to use this commands
+20/08/2026 Today I have learned Git Fetch and Pull Origin commands and when to use this commands in code.
